@@ -18,14 +18,14 @@
 ## 📊 GitHub Stats  
 
 - 🚀 **Total Commits (All Time):**
-  ![All Commits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat&label=Commits+Made)   
+  ![All Commits](https://komarev.com/ghpvc/?username=Alpha1zln&color=blue&style=flat&label=Commits+Made)   
 
 - 🛠️ **Languages I’ve Worked With:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true)  
 
 
 - 📌 **Contributions Overview:**  
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true)  
 
 
 - 🚀
