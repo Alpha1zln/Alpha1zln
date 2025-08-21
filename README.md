@@ -22,11 +22,9 @@
      
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true)
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="396" />
 
 
- 
-- 📊 Languages Used
+- 📊 ** Languages Used **
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="396" />
 
