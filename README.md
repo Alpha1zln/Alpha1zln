@@ -20,7 +20,11 @@
 
 - 🚀 **  Activity & Commits  **  
      
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="396" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="496" />
+
+
+*********
+
 
 - 📊 **  Languages Used  **
 
@@ -47,6 +51,7 @@
 
 ---
 
+
 ## 🛠️ Tech Stack  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
@@ -58,7 +63,7 @@
 
 ---
 
-
+<!--
 ---
 ### 🔧 Skills  
 
@@ -83,15 +88,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-
-<!--
-## 🔧 Skills
-- **Languages:** C++, Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, React, Node.js, Express  
-- **Databases:** MySQL, MongoDB  
-- **Other:** Git, Docker, Azure (Internship)  
 -->
 
+
+## 🔧 ** Skills **   
+  
+- **Languages:**       C++, Java, Python, JavaScript    
+  
+- **Frameworks:**      Spring Boot, React, Node.js, Express    
+  
+- **Databases:**       MySQL, MongoDB  
+  
+- **Other:**           Git, Docker, Azure (Internship)  
+ 
 ---
 
 ---
