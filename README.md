@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=default)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha1zln&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alpha1zln&theme=default)  
 
 ---
 
