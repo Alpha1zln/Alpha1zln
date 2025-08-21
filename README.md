@@ -17,28 +17,28 @@
 
 ## 🚀 GitHub Journey  / Stats
 
-- 🚀 **Total Commits (All Time):**
-  ![All Commits](https://komarev.com/ghpvc/?username=Alpha1zln&color=blue&style=flat&label=Commits+Made)
-
-
-- 🛠️ **Languages I’ve Worked With:**  
+    
+-  **  🛠️ Languages I’ve Worked With:**  
+    
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true)  
 
 
-- 📌 **Contributions Overview:**  
+
+- ** 🚀 🔥 Activity & Commits  **  
+     
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true)  
 
-- 📊 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight)
+
+
+-  **  📊 Languages Used   **  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight)  
 
 
 
-- 🚀
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=default)  
 
 
-- 🚀 🔥 Activity & Commits  
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=dark&hide_border=false)
+
 
 ---
 
