@@ -6,9 +6,9 @@
 
 # Details about profile, 👋  
 
-🎓 Masters CSE **NIT T**  
+🎓 Done Masters CSE, **NIT T**  
 💻 Passionate about **Software Development, Java, and MERN**  
-📚 Solved 1000+ coding problems  
+✔️ Solved **1000+ DSA problems** on multiple platforms  
 🚀 Currently exploring new tech stacks - Java and MERN / MEAN and mod-adv coding ques.   
 
 ---
@@ -17,9 +17,25 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha1zln&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Alpha1zln&theme=default)  
+- 🚀 **Total Commits (All Time):**
+  ![All Commits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat&label=Commits+Made)   
+
+- 🛠️ **Languages I’ve Worked With:**  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+
+
+- 📌 **Contributions Overview:**  
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
+
+
+- 🚀
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha1zln&show_icons=true&theme=default)  
+
+- 🚀
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=default)  
+
+- 🚀
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Alpha1zln&theme=default)  
 
 ---
 
@@ -64,7 +80,11 @@
 -->
 
 ---
-⭐ *"Always learning, always building."*
+⭐ * "LifeLong Learner. Work Like Hell during office hrs."  "Live every moment of home hrs, make beautiful memories" *
+
+---
+
+⭐ * "Code. Learn. Grow."  "Live a meaningful life" *   ⭐
 
 ---
 
