@@ -20,7 +20,7 @@
 
 - 🚀 **  Activity & Commits  **  
      
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="396" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="696" />
 
 
 - 📊 ** Languages Used **
