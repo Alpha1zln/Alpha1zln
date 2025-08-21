@@ -17,33 +17,23 @@
 
 ## 🔥 GitHub Journey  / Stats  
 
-- 🚀 Commits  
 
-![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=highcontrast&hide_border=true)  
-
-- 🛠️ Activity Graph 
+- 🚀 **  Activity & Commits  **  
+     
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true)
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha1zln&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=58A6FF&area=true&hide_border=true)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" width="396" />
+
+
+ 
 - 📊 Languages Used
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="520" />
-
-    
--  ** Languages I’ve Worked With:**  
-    
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="396" />
 
 
 
-- ** 🚀  Activity & Commits  **  
-     
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true)  
 
 
-
--  **  📊 Languages Used   **  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1zln&layout=compact&theme=tokyonight)  
 
 
 
