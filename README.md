@@ -6,7 +6,7 @@
 
 # Details about profile, 👋  
 
-🎓 Done Masters CSE, **NIT T**  
+🎓 Done Masters CA, **NIT T**  
 💻 Passionate about **Software Development, Java, and MERN**  
 ✔️ Solved **1000+ DSA problems** on multiple platforms  
 🚀 Currently exploring new tech stacks - Java and MERN / MEAN and mod-adv coding ques.   
