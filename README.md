@@ -20,10 +20,8 @@
 
 - 🚀 **  Activity & Commits  **  
 
-<img 
-  src="https://streak-stats.demolab.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" 
-  width="496"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Alpha1zln&theme=tokyonight&hide_border=true&t=22)
+
 
 <!--
 
