@@ -19,9 +19,16 @@
 
 
 - 🚀 **  Activity & Commits  **  
-     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true&v=2" width="496" />
 
+<img 
+  src="https://streak-stats.demolab.com/?user=Alpha1zln&theme=tokyonight&hide_border=true" 
+  width="496"
+/>
+
+<!--
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha1zln&theme=tokyonight&hide_border=true&v=2" width="496" />
+-->
 
 
 *********
